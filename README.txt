@@ -1,11 +1,6 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="utf-8" />
-		<title>README</title>
-		<link rel="stylesheet" href="#" />
-	</head>
-	<body>
-		<h1>Hello World!</h1>
-	</body>
-</html>
+AgentPrg.
+
+	Prise en main du logiciel git créer par Linus Torvald.
+	Git permet de versionner du code et de collaborer entre developeurs.
+	Il est preferable d' utiliser SSH pour envoyer, recevoir, mettre à jour
+	le code sur lequel on travaille.
